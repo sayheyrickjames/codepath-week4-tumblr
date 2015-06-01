@@ -13,10 +13,10 @@ The purpose of this week's homework was to leverage animations and gestures to c
 
 - [x] Tapping on Home, Search, Account, or Trending should show the respective screen and highlight the tab bar button.
 - [x] Compose button should modally present the compose screen.
-- [  ] Optional: Compose screen is faded in while the buttons animate in.
-- [  ] Optional: Login button should show animate the login form over the view controller.
-- [  ] Optional: Discover bubble should bob up and down unless the SearchViewController is tapped.
+- [ —  ] Optional: Compose screen is faded in while the buttons animate in.
+- [x] Optional: Login button should show animate the login form over the view controller.
+- [x] Optional: Discover bubble should bob up and down unless the SearchViewController is tapped.
 
-![tumblr-walkthrough](https://github.com/sayheyrickjames/codepath-week3-mailbox/blob/master/mailbox-walkthrough.gif?raw=true)
+![tumblr-walkthrough](https://github.com/sayheyrickjames/codepath-week4-tumblr/blob/master/tumblr-walkthrough.gif?raw=true)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
